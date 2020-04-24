@@ -1,6 +1,6 @@
-# nearest_points_visualize
+# Closest Points Visualizer
 
-> An electron-vue project
+> An electron-vue project for visualizing the divide and conquer solution of  closest points problem
 
 #### Build Setup
 
